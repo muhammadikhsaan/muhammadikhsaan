@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi Friends 👋
 
+My name is **Muhammad Ikhsan**, for me coding is a hobby.
+ - 🌟Coding everywhere, Coding everytime.
+ - ✨No Working, No paid.
+
+### 📫 How to Reach Me:
+[<img alt="muhammadikhsan | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="muhammadikhsan | Email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+[linkedin]: https://www.linkedin.com/in/muhammad-ikhsan-45334a137
+[email]: mailto:muhammadikhsan9791@gmail.com?subject=Friend
 <!--
 **muhammadikhsaan/muhammadikhsaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
